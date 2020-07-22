@@ -2,7 +2,7 @@
 require 'pry'
 player1 = "Rocky"
 player2 = "Bullwinkle"
-def start_game(player1, playar2)
+def start_game(player1, player2)
   binding.pry
   "Hello #{player1} & #{player2}"
 end
